@@ -1,6 +1,4 @@
-<img width="588" height="99" alt="Captura de pantalla 2026-04-29 083230" src="https://github.com/user-attachments/assets/7153408d-0237-41ec-964a-189cf71f2cb8" />
-<img width="588" height="99" alt="Captura de pantalla 2026-04-29 083230" src="https://github.com/user-attachments/assets/ae3ec5cc-2895-4d10-aa50-c7dc22c5cc82" />
-<img width="588" height="99" alt="Captura de pantalla 2026-04-29 083230" src="https://github.com/user-attachments/assets/da48f9e2-a306-4cd8-9fb4-e3a8cdd709e4" />
+
 # Examen_24308060610623
 
 *Catalan Gallardo Abdel Obed 4-D*
@@ -40,5 +38,6 @@ Este es el gestor de tareas
 Errores y asi
 <img width="1349" height="767" alt="Captura de pantalla 2026-04-29 083844" src="https://github.com/user-attachments/assets/d5fb71b4-beae-4e10-a4c8-20918f68a330" />
 <img width="1337" height="764" alt="Captura de pantalla 2026-04-29 083523" src="https://github.com/user-attachments/assets/55ddb0ed-b662-497b-971a-3c5170022d41" />
+
 <img width="588" height="99" alt="Captura de pantalla 2026-04-29 083230" src="https://github.com/user-attachments/assets/3aa8f97b-3f30-4076-a97e-fdea0e279311" />
 
