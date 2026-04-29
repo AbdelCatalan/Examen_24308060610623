@@ -2,6 +2,7 @@
 # Examen_24308060610623
 
 *Catalan Gallardo Abdel Obed 4-D*
+![abdelito](https://github.com/user-attachments/assets/35bf2905-33f3-46b5-8667-4c81073b3474)
 
 29/04/26
 
