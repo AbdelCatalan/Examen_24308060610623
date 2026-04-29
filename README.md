@@ -1,5 +1,9 @@
 # Examen_24308060610623
 
+Catalan Gallardo AbdelObed 4-D
+29/04/26
+
+
 Este examen es un inicio de sesion en base a los trabajos anteriores pero funcionando tanto el inicio de sesion como el registro y el gestor de tareas y tambien agrega una barra en la parte superior
 
 
