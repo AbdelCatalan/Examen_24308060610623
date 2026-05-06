@@ -20,7 +20,7 @@ Este es el menu desplegable de arriba a la derecha
 <img width="204" height="159" alt="Captura de pantalla 2026-04-29 092716" src="https://github.com/user-attachments/assets/332edfaf-57dc-4fa3-beed-c10e9ce255fa" />
 
 
-Esta es la pagina de reggistro
+Esta es la pagina de registro
 <img width="1365" height="679" alt="Captura de pantalla 2026-04-29 092742" src="https://github.com/user-attachments/assets/10d30b66-b912-4b83-8ad3-79540ff7fbe6" />
 
 
